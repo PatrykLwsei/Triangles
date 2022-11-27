@@ -47,7 +47,7 @@ namespace Zadanie_ParametryTrojkata
               Console.WriteLine("The triangle is isoceles."); //Isoceles triangle has two sides of equal length//
           }
         else {
-            Console.WriteLine("The triangle is scalene."); //Scalene triangle has three equal sides + There is no other types that It could be.//
+            Console.WriteLine("The triangle is scalene."); //Scalene triangle has no equal sides + There is no other types that It could be.//
         }
     }
   }
